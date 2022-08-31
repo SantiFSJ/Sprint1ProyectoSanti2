@@ -1,0 +1,65 @@
+.group-background{
+    padding-top: 30px;
+    height: 2850px;
+    background-image: url('../img/backgrounds/6f714f9e9b3eab30ccec71f3b888ca28.jpg');
+    background-size: 150px 200px;
+}
+
+.group-box{
+    margin: 30px;
+    background-color: white;
+    
+    height: auto;
+    border: solid black 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.team-box{
+    background-color: goldenrod;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin: 5px;
+    border: solid black 1px;
+    height: auto;
+
+    font-family: "Poppins 500","Noto Sans Regular","Helvetica Neue",Arial,sans-serif;
+    font-weight: bold;
+    text-align: left;
+
+    
+    display: flex;
+}
+
+.team-text{
+    font-family: "Poppins 500","Noto Sans Regular","Helvetica Neue",Arial,sans-serif;
+    font-weight: bold;
+    
+    margin-top: 15px;
+    margin-left: 15px;
+    
+}
+
+.team-box:hover{
+    background-color: silver;
+    box-shadow: 3px 3px 5px rgb(0, 0, 0);
+}
+
+
+.group-box-title{
+    font-family: "Poppins 500","Noto Sans Regular","Helvetica Neue",Arial,sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    padding-left: 5px;
+}
+
+.team-box img{
+    border-radius: 10px;
+}
+
+.image{
+    border-radius: 5px;
+}

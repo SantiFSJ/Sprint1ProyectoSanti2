@@ -1,0 +1,30 @@
+
+.stadiums-container{
+    background-image: url('../img/backgrounds/6f714f9e9b3eab30ccec71f3b888ca28.jpg');
+    background-size: 150px 200px;
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 40px;
+
+    height: 950px;
+    width: 100%;
+    
+}
+
+.stadium-cell{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: white;
+    float: left;
+    margin: 5px;
+    border: solid black 1px;
+    height: 450px;
+    width: 320px;
+    font-family: "Poppins 500","Noto Sans Regular","Helvetica Neue",Arial,sans-serif;
+    font-weight: bold;
+    
+}
+
+.stadium-cell:hover{
+    background-color: silver;
+}
