@@ -28,3 +28,8 @@
 .stadium-cell:hover{
     background-color: silver;
 }
+
+.stadium-image{
+    height: 200px;
+    width: 320px;
+}
